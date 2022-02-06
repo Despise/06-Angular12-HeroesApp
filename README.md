@@ -8,5 +8,5 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## ENDPOINT Server
 
-Ejecutar el comando en la ruta donde se encuentre el archivo db.json
-json-server --watch db.json
+Instalar `npm i -g json-server` 
+Ejecutar el comando en la ruta donde se encuentre el archivo db.json `json-server --watch db.json`
